@@ -1,0 +1,33 @@
+{
+"approvals": {
+		"nodes": [{
+			"order": 10,
+			"user": 1,
+			"nextNode": 2001,
+			"nodeID": "2000"
+		}, {
+			"order": 20,
+			"user": 3,
+			"nextNode": "2002",
+			"nodeID": "2001"
+		}, {
+			"order": 30,
+			"user": 2,
+			"nextNode": "",
+			"nodeID": "2002"
+		}]
+	},
+	"users": [{
+		"id": 1,
+		"name": "Tom Hanks",
+		"email": "thanks@bubbashrimp.com"
+	}, {
+		"id": 2,
+		"name": "Jack Black",
+		"email": "jblack@example.com"
+	}, {
+		"id": 3,
+		"name": "Tom Cruise",
+		"email": "tcruise@mi.com"
+	}]
+}
