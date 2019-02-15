@@ -20,7 +20,7 @@ https://github.com/Esri/calcite-bootstrap
 
 https://github.com/typicode/json-server
 
-Take a look at [db.json](files/db.json)
+Take a look at [db.json](files/db.JSON)
 
 Create an [AngularJS](https://angularjs.org/) app that shows the nodes in the following order, an example implementation is below: 
 
