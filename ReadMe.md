@@ -22,9 +22,11 @@ https://github.com/typicode/json-server
 
 Take a look at [db.json](files/db.json)
 
-Create an AngularJS app that shows the nodes in the following order, an example implementation is below: 
+Create an [AngularJS](https://angularjs.org/) app that shows the nodes in the following order, an example implementation is below: 
 
 ![/files/usecase.jpeg](files/usecase.jpeg)
+
+You can load and use any other libraries and there are no other constraints. 
 
 
 
